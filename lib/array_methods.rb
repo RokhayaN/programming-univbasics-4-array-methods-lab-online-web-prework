@@ -18,6 +18,6 @@ def using_last('c' , 'd', 'a')
   using.using_last.last
 end
 
- using_size('c' , 'd', 'a')
+def using_size('c' , 'd', 'a')
 using_size.size
-
+end
